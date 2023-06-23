@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'webchathhn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DEB05C5A2FBD4624A46276D641A72689 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_084B970030A94BE99F858277F22CAB1F }}
